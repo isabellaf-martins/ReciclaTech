@@ -16,7 +16,7 @@ header {
   align-items: center;
   height: 120px;
   width: 100%;
-  border-bottom: solid 1px #dce2ea;
+  border-bottom: solid 1px #152a0d;
   background-color: #152a0d;
 }
 
@@ -75,7 +75,7 @@ nav button {
   text-align: center;
   text-decoration: none;
   font-size: 15px;
-  padding: 8px 16px;
+  padding: 10x 16px;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -564,7 +564,6 @@ footer {
   background-color: #1F2937;
   padding: 20px 4%;
   margin: 0;
-  margin-top: 20vh;
   font-family: "Inter", sans-serif;
   color: #cff4c1;
 }
@@ -742,7 +741,7 @@ footer {
   .buttons {
     flex-direction: column;
     align-items: center;
-    gap: 1px;
+    gap: 12px;
   }
   .Segundasecao {
     flex-direction: column;
