@@ -33,9 +33,7 @@ Facilitar a conexão entre **doadores e garimpadores** de eletrônicos, promoven
 
 ## 🗂️ Estrutura do Projeto
 
-
-📁 ReciclaTech/
-│
+📁 ReciclaTech
 ├── 📄 index.html # Estrutura principal do site
 ├── 🎨 style.css # Arquivo de estilos (separado do HTML)
 ├── 🖼️ img/ # Imagens e ícones do projeto
