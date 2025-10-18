@@ -1,4 +1,4 @@
-#♻️ ReciclaTech
+**♻️ ReciclaTech**
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)
 ![HTML5](https://img.shields.io/badge/feito%20com-HTML5-orange)
@@ -34,9 +34,13 @@ Facilitar a conexão entre **doadores e garimpadores** de eletrônicos, promoven
 ## 🗂️ Estrutura do Projeto
 
 📁 ReciclaTech
+
 ├── 📄 index.html # Estrutura principal do site
+
 ├── 🎨 style.css # Arquivo de estilos (separado do HTML)
+
 ├── 🖼️ img/ # Imagens e ícones do projeto
+
 └── 📘 README.md # Este arquivo
 
 ---
