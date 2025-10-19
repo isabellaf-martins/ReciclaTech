@@ -563,6 +563,7 @@ input[type=text] {
 
 footer {
   background-color: #1F2937;
+  min-height: 100vh;
   padding: 20px 4%;
   margin: 0;
   font-family: "Inter", sans-serif;
